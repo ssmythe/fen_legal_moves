@@ -99,5 +99,12 @@ Total legal moves: 20
 > **Note:** The output will vary depending on the board position provided by the FEN string.
 
 ## License
+This script is provided **without a license** and is free to use, modify, and distribute without restrictions.
 
-This project has no license.
+---
+
+### Contributions
+Contributions are welcome! Feel free to fork, modify, or suggest improvements.
+
+### Contact
+For questions or suggestions, feel free to open an issue or contact the author.
